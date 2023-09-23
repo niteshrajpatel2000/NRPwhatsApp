@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1080188668566",
+    "project_id": "nrpwhatsapp-502ce",
+    "storage_bucket": "nrpwhatsapp-502ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080188668566:android:7c537356734950748550b7",
+        "android_client_info": {
+          "package_name": "com.example.whatsapp_messenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080188668566-jf62uavti9a21d4b4hrs5ctro31eq6b3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeNMbb8A73L6jMcV0MW54PAPwFXP7hSjE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080188668566-jf62uavti9a21d4b4hrs5ctro31eq6b3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1080188668566-gumnn2o0lgm4o3iins3blfufdp4mhlgr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.nrpwhatsapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
